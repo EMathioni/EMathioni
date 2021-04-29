@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Eduardo Mathioni
-- 👀 Procuro emprego na area de programação
-- 🌱 Atualmente estou estudando Python e Hacking
+- 👀 Observador
+- 🌱 Atualmente estou estudando Python e segurança da informação
 - 📚 Sempre a procura de novos conhecimentos.
 
 <!---
