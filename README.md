@@ -1,5 +1,4 @@
 - 👋 Olá, me chamo Eduardo Mathioni
-- 👀 Observador
 - 🌱 Atualmente estou estudando Python e segurança da informação
 - 📚 Sempre a procura de novos conhecimentos.
 
