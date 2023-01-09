@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eduardo Aguiar Mathioni</h1>
 <h3 align="center">An enthusiast fullstack developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript, Angular, JQuery, Django**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eduardomathioni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardomathioni" height="30" width="40" /></a>
