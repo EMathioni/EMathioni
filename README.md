@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduardo Aguiar Mathioni</h1>
+<h1 align="center">Hi 👋, I'm Eduardo A. Mathioni</h1>
 <h3 align="center">An enthusiast fullstack developer from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
