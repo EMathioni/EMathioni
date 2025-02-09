@@ -141,7 +141,7 @@ A tecnologia muda rápido, e estar sempre evoluindo é parte do processo.
 
 ## 🤝 Conecte-se comigo
 
-Quer trocar ideias sobre tecnologia, projetos ou apenas bater um papo sobre inovação e IA?
+Quer trocar ideias sobre tecnologia, projetos ou apenas bater um papo sobre inovação?
 Sinta-se à vontade para me chamar!  
 
 <p align="center">
