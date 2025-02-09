@@ -41,15 +41,95 @@ Cada soldado tem suas armas, e essas são as que estou usando para transformar i
 ## 🔄 Meu Ritmo de Desenvolvimento
 
 ```python
-def dev_journey(boost):
-    while alive:
+#Python
+class Coffee:
+    def __init__(self, boost=5):
+        self.boost = boost
+
+def dev_journey(coffee):
+    energy = coffee.boost  
+
+    while True:
+        if energy == 0:
+            coffee = Coffee()
+            energy = coffee.boost  
+
         learn()
         innovate()
         refactor()
         celebrate()
-        
-dev_journey(Coffee coffee)
+
+        energy -= 1
+
+dev_journey(Coffee())
 ```
+```java
+//Java
+class Coffee {
+    int boost;
+
+    Coffee(int boost) {
+        this.boost = boost;
+    }
+
+    Coffee() {
+        this(5);
+    }
+}
+
+public class DevJourney {
+    public static void main(String[] args) {
+        devJourney(new Coffee());
+    }
+
+    static void devJourney(Coffee coffee) {
+        int energy = coffee.boost;
+
+        while (true) {
+            if (energy == 0) {
+                coffee = new Coffee();
+                energy = coffee.boost;
+            }
+
+            learn();
+            innovate();
+            refactor();
+            celebrate();
+
+            energy--;
+        }
+    }
+}
+```
+```javascript
+//JavaScript
+class Coffee {
+    constructor(boost = 5) {
+        this.boost = boost;
+    }
+}
+
+function devJourney(coffee) {
+    let energy = coffee.boost;
+
+    while (true) {
+        if (energy === 0) {
+            coffee = new Coffee();
+            energy = coffee.boost;
+        }
+
+        learn();
+        innovate();
+        refactor();
+        celebrate();
+
+        energy--;
+    }
+}
+
+devJourney(new Coffee());
+```
+
 
 ## 🚀 Evolução Através do Código
 
