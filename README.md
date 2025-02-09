@@ -48,8 +48,6 @@ def dev_journey(boost):
         refactor()
         celebrate()
         
-        
-
 dev_journey(Coffee coffee)
 ```
 
