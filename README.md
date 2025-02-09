@@ -190,7 +190,14 @@ Sinta-se à vontade para me chamar!
 ## 💡 Construindo o Futuro, Linha por Linha
 
 > "A melhor forma de prever o futuro é inventá-lo."  
-> — Alan Kay  
+> — Alan Kay
+
+> "Programação é a arte de encontrar soluções elegantes para problemas complexos."
+> — Matt Mullenweg
+
+> "Os programadores não são aqueles que escrevem códigos perfeitos, mas sim aqueles que sabem como corrigir os erros."
+> 
+> — Barbara Liskov
 
 Se você compartilha essa mentalidade, vamos juntos criar soluções incríveis.  
 O futuro é feito de código – e eu estou pronto para escrever as próximas linhas!
