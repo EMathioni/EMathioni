@@ -98,7 +98,7 @@ dev_journey(Coffee())
 ```java
 //Java
 class Coffee {
-    int boost;
+    private int boost;
 
     Coffee(int boost) {
         this.boost = boost;
